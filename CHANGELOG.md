@@ -1,6 +1,10 @@
 # CHANGELOG
 
-## [Unreleased]
+## [0.1.0] - 2026-07-20
+
+### 新增
+- 合并 quanttide-profile-of-asset-management：新增 quanttide/schema.json（Platform 数据模型）
+- 新增 schema/second-brain/：第二大脑九宫格资产图式、三层架构图、图片识图整理
 
 ## [0.0.4] - 2026-03-05
 
