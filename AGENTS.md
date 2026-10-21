@@ -28,7 +28,7 @@ This file provides guidance to CodeBuddy Code when working with code in this rep
 以记忆系统为隐喻构建知识资产体系：
 
 - **工作记忆**：profile（陈述性）+ handbook（程序性）
-- **长期记忆**：工作札记（陈述性）+ 工作报告（程序性）
+- **长期记忆**：论文（陈述性）+ 工作报告（程序性）
 
 ### 信息流转规则
 
