@@ -14,12 +14,13 @@ This file provides guidance to CodeBuddy Code when working with code in this rep
 ├── README.md          # 项目说明
 ├── CHANGELOG.md       # 版本变更记录
 ├── category/          # 资产分类
-│   ├── profile/       # 工作档案（创始人、沟通、议事、标准化等）
-│   └── handbook/      # 手册
+│   └── profile/       # 工作档案（创始人、沟通、议事、标准化等）
 ├── entity/            # 实体档案
 │   └── founder/       # 创始人档案（记忆模型）
 └── platform/          # 平台资产（GitHub 等）
 ```
+
+骨架以外的档案内容归档于归档仓 `quanttide-archive-of-asset-management` 的 `profile/` 目录。
 
 ## 核心概念
 
