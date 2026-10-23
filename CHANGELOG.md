@@ -3,6 +3,7 @@
 ## [Unreleased]
 
 ### 变更
+- 删除目录占位文件（category/、entity/、platform/ 下的 index 与 README）与 quanttide/schema.json，仓库只保留入口文档
 - 骨架文件清空描述性内容：index 与各 README 只保留标题，AGENTS 移除记忆模型与信息流转规则
 
 ### 移除
