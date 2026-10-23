@@ -2,6 +2,9 @@
 
 ## [Unreleased]
 
+### 新增
+- 新增领域工作台 `quanttide/`（25 个领域，按产物类别归档）与创始人工作台 `quanttide-founder/`、技术工作台 `quanttide-tech/`；补 CONTRIBUTING.md（档案贡献指南）与 LICENSE（CC BY 4.0）
+
 ### 变更
 - 删除目录占位文件（category/、entity/、platform/ 下的 index 与 README）与 quanttide/schema.json，仓库只保留入口文档
 - 骨架文件清空描述性内容：index 与各 README 只保留标题，AGENTS 移除记忆模型与信息流转规则

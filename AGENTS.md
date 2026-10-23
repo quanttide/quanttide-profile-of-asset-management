@@ -13,7 +13,12 @@ This file provides guidance to CodeBuddy Code when working with code in this rep
 ├── index.md           # 入口
 ├── README.md          # 项目说明
 ├── CHANGELOG.md       # 版本变更记录
-└── AGENTS.md          # 工作指南
+├── CONTRIBUTING.md    # 档案贡献指南
+├── LICENSE            # CC BY 4.0
+├── AGENTS.md          # 工作指南
+├── quanttide/         # 领域工作台（领域 × 产物类别）
+├── quanttide-founder/ # 创始人工作台
+└── quanttide-tech/    # 技术工作台（工作流待办）
 ```
 
 骨架以外的档案内容归档于归档仓 `quanttide-archive-of-asset-management` 的 `profile/` 目录。
