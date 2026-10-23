@@ -10,35 +10,20 @@ This file provides guidance to CodeBuddy Code when working with code in this rep
 
 ```
 .
-├── index.md           # 内容摘要入口
+├── index.md           # 入口
 ├── README.md          # 项目说明
 ├── CHANGELOG.md       # 版本变更记录
 ├── category/          # 资产分类
-│   └── profile/       # 工作档案（创始人、沟通、议事、标准化等）
+│   └── profile/       # 工作档案
 ├── entity/            # 实体档案
-│   └── founder/       # 创始人档案（记忆模型）
-└── platform/          # 平台资产（GitHub 等）
+│   └── founder/       # 创始人档案
+├── platform/          # 平台资产
+└── quanttide/         # 平台数据模型（schema.json）
 ```
 
 骨架以外的档案内容归档于归档仓 `quanttide-archive-of-asset-management` 的 `profile/` 目录。
 
-## 核心概念
-
-### 记忆模型（entity/founder/）
-
-以记忆系统为隐喻构建知识资产体系：
-
-- **工作记忆**：profile（陈述性）+ handbook（程序性）
-- **长期记忆**：论文（陈述性）+ 工作报告（程序性）
-
-### 信息流转规则
-
-```
-创始人档案 → 公司档案：转移职责
-主体档案 → 领域档案：积累可复用组件
-```
-
-### 访问范围
+## 访问范围
 
 | 位置 | 访问范围 |
 |------|----------|

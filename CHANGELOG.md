@@ -2,6 +2,9 @@
 
 ## [Unreleased]
 
+### 变更
+- 骨架文件清空描述性内容：index 与各 README 只保留标题，AGENTS 移除记忆模型与信息流转规则
+
 ### 移除
 - 骨架以外的内容迁出至归档仓（quanttide-archive-of-asset-management/profile/）：工作档案（创始人、沟通、议事、标准化、认知工程、叙事工程）、创始人手册、实体档案（工作档案、工作手册、工作札记）、平台资产（GitHub）、第二大脑图式三篇；本仓只保留骨架
 
