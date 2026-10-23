@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## [v0.2.0] - 2026-10-23
+
 ### 新增
 - 新增领域工作台 `quanttide/`（25 个领域，按产物类别归档）与创始人工作台 `quanttide-founder/`、技术工作台 `quanttide-tech/`；补 CONTRIBUTING.md（档案贡献指南）与 LICENSE（CC BY 4.0）
 
