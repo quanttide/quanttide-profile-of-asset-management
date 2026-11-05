@@ -2,6 +2,9 @@
 
 ## [Unreleased]
 
+### 新增
+- `quanttide-tech/github.md`：quanttide-tech 私有仓的子模块结构——公开/私有两仓、9 个子模块、指针快照
+
 ### 移除
 - 三个工作台目录（`quanttide/`、`quanttide-founder/`、`quanttide-tech/`，99 篇）迁回工作档案仓 quanttide-profile-of-knowledge-work
 
