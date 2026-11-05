@@ -2,6 +2,9 @@
 
 ## [Unreleased]
 
+### 移除
+- 三个工作台目录（`quanttide/`、`quanttide-founder/`、`quanttide-tech/`，99 篇）迁回工作档案仓 quanttide-profile-of-knowledge-work
+
 ## [v0.2.0] - 2026-10-23
 
 ### 新增
