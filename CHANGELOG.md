@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## [v0.2.1] - 2026-11-06
+
 ### 新增
 - `quanttide-tech/github.md`：quanttide-tech 私有仓的子模块结构——公开/私有两仓、9 个子模块、指针快照
 
